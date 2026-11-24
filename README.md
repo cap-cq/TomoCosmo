@@ -1,4 +1,4 @@
-# TomoCosmo (prototype v0.1)
+# TomoCosmo (prototype v0.1.0)
 
 **Gravitational-wave tomography of the pre-BBN Universe**
 
