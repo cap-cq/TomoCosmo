@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use TomoCosmo, please cite it as below."
+title: "TomoCosmo: gravitational-wave tomography of the pre-BBN Universe (prototype)"
+version: 0.1.0
+date-released: 2026-12-02          
+license: MIT
+repository-code: "https://github.com/cap-cq/TomoCosmo"
+authors:
+  - family-names: Mahapatra
+    given-names: Satyabrata
+    affiliation: "School of Physical Sciences, Indian Institute of Technology Goa"
+keywords:
+  - gravitational waves
+  - early Universe
+  - dark matter
+  - non-standard cosmology
