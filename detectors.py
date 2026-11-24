@@ -39,9 +39,10 @@ Where the sensitivity projections come from
   LALSuite (LAL and LALSimulation): https://git.ligo.org/lscsoft/lalsuite ,
   documentation https://lscsoft.docs.ligo.org/lalsuite/ .
 
-This file use .npz files
+Data files used by this module
 ------------------------------
-  Yes, one: data/lal_tables.npz. It holds the ET, CE and A+ noise curves and the geometry of the
+------------------------------
+  One file: data/lal_tables.npz. It holds the ET, CE and A+ noise curves and the geometry of the
   Hanford, Livingston and LIGO-India detectors, read once from LALSuite and stored, so that LALSuite
   does not need to be installed. If LALSuite IS installed, this file reads the same quantities
   directly from it and ignores the table. LISA, DECIGO and SKA are analytic and need no file.
