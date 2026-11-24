@@ -109,10 +109,7 @@ at `T = T_norm`. It must not exchange energy with the plasma; for a decaying spe
 
 * Natural units (GeV) internally, frequencies in Hz, `a = 1` today.
 * **Stiff-era history** (`kind="stiff"`): RD → a matter-like phase → stiff era of constant `w` from
-  `T_K` → RD from `T_tr` (the fluid equals radiation at `T_tr`). A stiff fluid redshifts faster than
-  radiation, so it can only dominate if it was matter-like before; the matter-like phase plays that
-  role. For `w` close to 1 the matter-like phase starts at very high temperature, and
-  `T_ini_stiff()` raises the start of the grid accordingly.
+  `T_K` → RD from `T_tr` (the fluid equals radiation at `T_tr`). 
 * **Couplings in Fig. 1(b)**: freeze-out through a mediator heavier than the DM with fixed mass and SM
   coupling, so `⟨σv⟩ ∝ g_DM²` and `g/g_RD = (⟨σv⟩/⟨σv⟩_RD)^(1/2)`; freeze-in from a two-body decay,
   `Γ ∝ g_DM²` and `g/g_RD = (Γ/Γ_RD)^(1/2)`. The SNR scales linearly with `r`.
