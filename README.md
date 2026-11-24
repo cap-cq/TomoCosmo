@@ -136,8 +136,7 @@ at `T = T_norm`. It must not exchange energy with the plasma; for a decaying spe
 
 ## How to cite
 
-If you use TomoCosmo, please cite this repository (see `CITATION.cff`; a Zenodo DOI is attached to
-each release).
+If you use TomoCosmo, please cite this repository (see `CITATION.cff`).
 
 ## Licence
 
